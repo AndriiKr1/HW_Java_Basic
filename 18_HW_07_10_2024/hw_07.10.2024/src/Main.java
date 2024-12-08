@@ -45,7 +45,7 @@ public class Main {
                 System.out.println("Текущий словарь:");
                 System.out.println(dictionary);
             }
-            System.out.println("-----------------------------------------------------------");
+            System.out.println("------------------------------------------------------------");
         }
     }
 }
